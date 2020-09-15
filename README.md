@@ -1,5 +1,5 @@
-# 安装依赖
-npm i
+##### 安装依赖
+`npm i`
 
-# 运行项目
-npm run dev
+##### 运行项目
+`npm run dev`
